@@ -1,0 +1,29 @@
+{
+  "name": "ppv-bmad-kit",
+  "version": "0.1.0",
+  "description": "PPV+BMad: AI-native development methodology kit. Plan-Preview-Parallel-Validate with BMad Method agents.",
+  "keywords": [
+    "ai-development",
+    "multi-agent",
+    "claude-code",
+    "bmad-method",
+    "ppv",
+    "methodology",
+    "parallel-execution"
+  ],
+  "homepage": "https://github.com/kangminlee-maker/ppv-bmad-kit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangminlee-maker/ppv-bmad-kit.git"
+  },
+  "license": "MIT",
+  "author": "kangminlee-maker",
+  "bin": {
+    "ppv-bmad-kit": "./bin/cli.sh"
+  },
+  "files": [
+    "template/",
+    "install.sh",
+    "bin/"
+  ]
+}
