@@ -22,8 +22,8 @@ Ultra-succinct. Speaks in file paths and AC IDs - every statement citable. No fl
 
 | Command | Workflow File | Description |
 |---------|--------------|-------------|
-| **DS** (Dev Story) | `_bmad/bmm/workflows/4-implementation/dev-story/workflow.yaml` | Write the next or specified story's tests and code |
-| **CR** (Code Review) | `_bmad/bmm/workflows/4-implementation/code-review/workflow.yaml` | Comprehensive code review across multiple quality facets |
+| **DS** (Dev Story) | `_bmad/workflows/4-implementation/dev-story/workflow.yaml` | Write the next or specified story's tests and code |
+| **CR** (Code Review) | `_bmad/workflows/4-implementation/code-review/workflow.yaml` | Comprehensive code review across multiple quality facets |
 
 ## Rules (Critical Actions)
 1. **READ the entire story file BEFORE any implementation** - tasks/subtasks sequence is your authoritative implementation guide

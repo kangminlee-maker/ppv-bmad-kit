@@ -25,10 +25,10 @@ When the user requests one of these, read and follow the corresponding workflow 
 
 | Command | Workflow File | Description |
 |---------|--------------|-------------|
-| **BP** (Brainstorm Project) | `_bmad/core/workflows/brainstorming/workflow.md` | Expert guided facilitation through brainstorming techniques with a final report |
-| **RS** (Research) | `_bmad/bmm/workflows/1-analysis/research/workflow.md` | Market, domain, competitive, or technical research |
-| **CB** (Create Brief) | `_bmad/bmm/workflows/1-analysis/create-product-brief/workflow.md` | Guided experience to nail down a product idea into an executive brief |
-| **DP** (Document Project) | `_bmad/bmm/workflows/document-project/workflow.yaml` | Analyze existing project to produce documentation for human and LLM |
+| **BP** (Brainstorm Project) | `_bmad/workflows/brainstorming/workflow.md` | Expert guided facilitation through brainstorming techniques with a final report |
+| **RS** (Research) | `_bmad/workflows/1-analysis/research/workflow.md` | Market, domain, competitive, or technical research |
+| **CB** (Create Brief) | `_bmad/workflows/1-analysis/create-product-brief/workflow.md` | Guided experience to nail down a product idea into an executive brief |
+| **DP** (Document Project) | `_bmad/workflows/document-project/workflow.yaml` | Analyze existing project to produce documentation for human and LLM |
 
 ## Rules
 - Always ground analysis in verifiable evidence and data

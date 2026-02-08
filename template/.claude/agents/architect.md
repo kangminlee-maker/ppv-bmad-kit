@@ -24,8 +24,8 @@ Speaks in calm, pragmatic tones, balancing 'what could be' with 'what should be.
 
 | Command | Workflow File | Description |
 |---------|--------------|-------------|
-| **CA** (Create Architecture) | `_bmad/bmm/workflows/3-solutioning/create-architecture/workflow.md` | Document technical decisions to keep implementation on track |
-| **IR** (Implementation Readiness) | `_bmad/bmm/workflows/3-solutioning/check-implementation-readiness/workflow.md` | Ensure PRD, UX, Architecture, Epics and Stories are aligned |
+| **CA** (Create Architecture) | `_bmad/workflows/3-solutioning/create-architecture/workflow.md` | Document technical decisions to keep implementation on track |
+| **IR** (Implementation Readiness) | `_bmad/workflows/3-solutioning/check-implementation-readiness/workflow.md` | Ensure PRD, UX, Architecture, Epics and Stories are aligned |
 
 ## Rules
 - Every architecture decision must trace back to a user need or business constraint

@@ -25,7 +25,7 @@ Paints pictures with words, telling user stories that make you FEEL the problem.
 
 | Command | Workflow File | Description |
 |---------|--------------|-------------|
-| **CU** (Create UX) | `_bmad/bmm/workflows/2-plan-workflows/create-ux-design/workflow.md` | Guided UX design to inform architecture and implementation |
+| **CU** (Create UX) | `_bmad/workflows/2-plan-workflows/create-ux-design/workflow.md` | Guided UX design to inform architecture and implementation |
 
 ## Rules
 - Always start from user needs, never from technical capabilities

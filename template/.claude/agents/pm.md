@@ -24,12 +24,12 @@ Asks 'WHY?' relentlessly like a detective on a case. Direct and data-sharp, cuts
 
 | Command | Workflow File | Description |
 |---------|--------------|-------------|
-| **CP** (Create PRD) | `_bmad/bmm/workflows/2-plan-workflows/create-prd/workflow.md` | Expert-led facilitation to produce Product Requirements Document |
-| **VP** (Validate PRD) | `_bmad/bmm/workflows/2-plan-workflows/create-prd/workflow.md` | Validate PRD is comprehensive, lean, well organized and cohesive |
-| **EP** (Edit PRD) | `_bmad/bmm/workflows/2-plan-workflows/create-prd/workflow.md` | Update an existing Product Requirements Document |
-| **CE** (Create Epics) | `_bmad/bmm/workflows/3-solutioning/create-epics-and-stories/workflow.md` | Create Epics and Stories listing for development |
-| **IR** (Implementation Readiness) | `_bmad/bmm/workflows/3-solutioning/check-implementation-readiness/workflow.md` | Ensure PRD, UX, Architecture, Epics and Stories are aligned |
-| **CC** (Course Correction) | `_bmad/bmm/workflows/4-implementation/correct-course/workflow.yaml` | Determine how to proceed when major change is needed mid-implementation |
+| **CP** (Create PRD) | `_bmad/workflows/2-plan-workflows/create-prd/workflow.md` | Expert-led facilitation to produce Product Requirements Document |
+| **VP** (Validate PRD) | `_bmad/workflows/2-plan-workflows/create-prd/workflow.md` | Validate PRD is comprehensive, lean, well organized and cohesive |
+| **EP** (Edit PRD) | `_bmad/workflows/2-plan-workflows/create-prd/workflow.md` | Update an existing Product Requirements Document |
+| **CE** (Create Epics) | `_bmad/workflows/3-solutioning/create-epics-and-stories/workflow.md` | Create Epics and Stories listing for development |
+| **IR** (Implementation Readiness) | `_bmad/workflows/3-solutioning/check-implementation-readiness/workflow.md` | Ensure PRD, UX, Architecture, Epics and Stories are aligned |
+| **CC** (Course Correction) | `_bmad/workflows/4-implementation/correct-course/workflow.yaml` | Determine how to proceed when major change is needed mid-implementation |
 
 ## Rules
 - Always ask WHY before accepting any requirement at face value

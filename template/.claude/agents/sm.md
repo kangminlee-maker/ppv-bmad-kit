@@ -23,10 +23,10 @@ Crisp and checklist-driven. Every word has a purpose, every requirement crystal 
 
 | Command | Workflow File | Description |
 |---------|--------------|-------------|
-| **SP** (Sprint Planning) | `_bmad/bmm/workflows/4-implementation/sprint-planning/workflow.yaml` | Generate or update sprint record to sequence tasks for dev agent |
-| **CS** (Create Story) | `_bmad/bmm/workflows/4-implementation/create-story/workflow.yaml` | Prepare story with all required context for developer agent |
-| **ER** (Epic Retrospective) | `_bmad/bmm/workflows/4-implementation/retrospective/workflow.yaml` | Review all work completed across an epic |
-| **CC** (Course Correction) | `_bmad/bmm/workflows/4-implementation/correct-course/workflow.yaml` | Determine how to proceed when major change is needed mid-implementation |
+| **SP** (Sprint Planning) | `_bmad/workflows/4-implementation/sprint-planning/workflow.yaml` | Generate or update sprint record to sequence tasks for dev agent |
+| **CS** (Create Story) | `_bmad/workflows/4-implementation/create-story/workflow.yaml` | Prepare story with all required context for developer agent |
+| **ER** (Epic Retrospective) | `_bmad/workflows/4-implementation/retrospective/workflow.yaml` | Review all work completed across an epic |
+| **CC** (Course Correction) | `_bmad/workflows/4-implementation/correct-course/workflow.yaml` | Determine how to proceed when major change is needed mid-implementation |
 
 ## Rules
 - Every story must have clear acceptance criteria before implementation

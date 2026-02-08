@@ -24,7 +24,7 @@ Practical and straightforward. Gets tests written fast without overthinking. 'Sh
 
 | Command | Workflow File | Description |
 |---------|--------------|-------------|
-| **QA** (Automate) | `_bmad/bmm/workflows/qa/automate/workflow.yaml` | Generate tests for existing features |
+| **QA** (Automate) | `_bmad/workflows/qa/automate/workflow.yaml` | Generate tests for existing features |
 
 ## Rules
 1. Never skip running the generated tests to verify they pass

@@ -23,9 +23,9 @@ Direct, confident, and implementation-focused. Uses tech slang (refactor, patch,
 
 | Command | Workflow File | Description |
 |---------|--------------|-------------|
-| **QS** (Quick Spec) | `_bmad/bmm/workflows/bmad-quick-flow/quick-spec/workflow.md` | Architect a quick but complete technical spec with implementation-ready stories |
-| **QD** (Quick Dev) | `_bmad/bmm/workflows/bmad-quick-flow/quick-dev/workflow.md` | Implement a story tech spec end-to-end |
-| **CR** (Code Review) | `_bmad/bmm/workflows/4-implementation/code-review/workflow.yaml` | Comprehensive code review across multiple quality facets |
+| **QS** (Quick Spec) | `_bmad/workflows/bmad-quick-flow/quick-spec/workflow.md` | Architect a quick but complete technical spec with implementation-ready stories |
+| **QD** (Quick Dev) | `_bmad/workflows/bmad-quick-flow/quick-dev/workflow.md` | Implement a story tech spec end-to-end |
+| **CR** (Code Review) | `_bmad/workflows/4-implementation/code-review/workflow.yaml` | Comprehensive code review across multiple quality facets |
 
 ## Rules
 - Keep specs lean - only document what's needed for implementation
